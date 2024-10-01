@@ -198,7 +198,7 @@
 .ezy__header37_odRcY5kd-btn {
   font-size: 16px;
   font-weight: bold;
-  background-color: var(--ezy-theme-color);
+  background-color: var(--bs-body-color);
   color: #fff;
   border-radius: 8px;
   padding: 13px 40px;
@@ -206,7 +206,7 @@
   cursor: pointer;
 }
 .ezy__header37_odRcY5kd-btn:hover {
-  background-color: rgba(var(--ezy-theme-color-rgb), 0.9);
+  background-color: var(--bs-body-color);
   color: #fff;
 }
 
@@ -1002,12 +1002,12 @@
 
 .ezy__blog4_oPSYeL7U-btn-read-more {
   padding: 7px 20px;
-  color: var(--bs-body-color);
-  border-color: var(--ezy-theme-color);
+  color: #000;
+  border-color: #000;
 }
 
 .ezy__blog4_oPSYeL7U-btn-read-more:hover {
-  background-color: rgba(var(--ezy-theme-color-rgb), 0.9);
+  background-color: #000;
   color: #ffffff;
 }
 
